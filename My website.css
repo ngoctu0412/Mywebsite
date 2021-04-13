@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.news {
+    width: 500px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+img {
+    width: 100%;
+}
+
+h2,
+p {
+    padding: 10px;
+}
+
+.bg-color {
+    background-color: #00917c;
+}
